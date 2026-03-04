@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Reine Demgne. 👋
 
-<!--
-**Reine90/Reine90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Software Engineering Student @ University of Duisburg-Essen
+I am a passionate developer based in **Essen, Germany**, currently focusing on the intersection of data-driven insights and interactive user experiences.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧠 **Focus:** Data Science & Artificial Intelligence
+- 🎨 **Creative Side:** Front-end Development & UI Design
+- 📊 **Goal:** Building intelligent systems that are as beautiful as they are functional.
+- 🌱 **Learning:** Currently learning data analytics, Power BI, webdesign and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Stack
+| Category | Tools & Languages |
+| **Data Science** | Python, NumPy, Pandas|
+| **Front-end** | HTML5, CSS, TypeScript, Angular |
+| **Tools** | Git, Docker,IntelliJ, VS Code,Eclipse|
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Reine90=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Reine90=[YOUR-USERNAME]&layout=compact&theme=radical)
+
+## 💬 Let's Connect!
+- 📍 Location: Essen, Germany 🇩🇪
+- 💼 LinkedIn: https://www.linkedin.com/in/reine-christiane-demgne
+
+> *"In God we trust, all others must bring data."*
+
