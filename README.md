@@ -16,8 +16,8 @@ I am a passionate developer based in **Essen, Germany**, currently focusing on t
 | **Tools** | Git, Docker,IntelliJ, VS Code,Eclipse|
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Reine90=[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Reine90=[YOUR-USERNAME]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Reine90=[Reine_Chris 12]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Reine90=[Reine_Chris 12]&layout=compact&theme=radical)
 
 ## 💬 Let's Connect!
 - 📍 Location: Gladbeck, Germany 🇩🇪
