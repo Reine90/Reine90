@@ -20,7 +20,7 @@ I am a passionate developer based in **Essen, Germany**, currently focusing on t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Reine90=[YOUR-USERNAME]&layout=compact&theme=radical)
 
 ## 💬 Let's Connect!
-- 📍 Location: Essen, Germany 🇩🇪
+- 📍 Location: Gladbeck, Germany 🇩🇪
 - 💼 LinkedIn: https://www.linkedin.com/in/reine-christiane-demgne
 
 > *"In God we trust, all others must bring data."*
